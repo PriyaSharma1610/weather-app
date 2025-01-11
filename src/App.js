@@ -183,7 +183,7 @@ function App() {
             <Box
               component="img"
               sx={{
-                height: { xs: '16px', sm: '22px', md: '26px' },
+                height: { xs: '8px', sm: '8px', md: '86px' },
                 width: 'auto',
               }}
               alt="logo"
@@ -192,7 +192,7 @@ function App() {
 
             <UTCDatetime />
             <Link
-              href="https://github.com/Amin-Awinti"
+              href="https://github.com/PriyaSharma1610"
               target="_blank"
               underline="none"
               sx={{ display: 'flex' }}
